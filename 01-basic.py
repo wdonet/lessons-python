@@ -29,3 +29,5 @@ print(ch1 + ch2 + ch3, end='.\n\'\t.\n') #escaping chars
 formatter = '>{}{}'
 print(formatter.format(True, formatter))
 
+# Check Data types
+# https://docs.python.org/3/library/stdtypes.html

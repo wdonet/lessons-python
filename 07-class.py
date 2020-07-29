@@ -23,3 +23,6 @@ janitor = Janitor()
 print(jane.name)
 print(f"{john.name} earns {john.salary}")
 print(f"The Janitor is {janitor.name} earns {janitor.salary}")
+
+# the convention is to use CamelCase for classes
+#  and lower_case_with_underscores for functions and methods

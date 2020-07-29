@@ -72,3 +72,4 @@ Also check:
 - [unittest](https://docs.python.org/3/library/unittest.html)
 - [pytest](https://docs.pytest.org/en/stable/getting-started.html)
 
+Check more [at the docs](https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip)
